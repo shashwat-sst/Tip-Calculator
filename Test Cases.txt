@@ -1,0 +1,22 @@
+1. Run the application.
+2. Check all the controls present in the application.
+3. Check the visual customisations applied on controls/components of the application.
+4. Enter input for "Bill"
+	a) Enter a valid input (numbers/decimal number).
+	b) Enter an invalid input(alphabets/special characters/negative integers).
+5. Enter input for "Tip %"
+	a) Enter a valid input (whole numbers)
+	b) Enter an invalid input(alphabets/special characters/negative integers/decimal number).
+	c) Try to manupulate the data with "-" and "+" buttons.
+	d) Enter out of bound data
+6. Enter input for "Number of people"
+	a) Enter a valid input (natural numbers)
+	b) Enter an invalid input(alphabets/special characters/negative integers/decimal number).
+	c) Try to manupulate the data with "-" and "+" buttons.
+	d) Enter out of bound data
+7. Calcute the "Tip per person" and "Total per person" by clicking the "Calculate" button.
+	a) Enter no input(null input)
+	b) Enter partially valid inputs.
+	c) Enter invalid inputs in all the fields.
+	d) Enter all the valid inputs.
+	e) Check if the result produced is correct.
